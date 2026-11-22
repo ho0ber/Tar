@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Tar
+## Notes: Remembers the /tar commands you type in chat and repeats the last one from a macro or keybind.
+## Version: 0.1.0
+## SavedVariables: TarDB
+
+Tar.lua
